@@ -8,7 +8,6 @@
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
 	<artifactId>frontend</artifactId>
-<!-- 	<packaging>pom</packaging> -->
 	<name>Frontend</name>
 	<description>Frontend with React</description>
 
