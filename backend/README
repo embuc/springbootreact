@@ -1,3 +1,6 @@
+#Run dev server
 mvn spring-boot:run
 
-java -jar target/springbootreact.jar 
+# run built jar
+java -jar target/springbootreact.jar
+
