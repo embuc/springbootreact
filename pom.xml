@@ -17,10 +17,18 @@
 	<name>SpringBootReact</name>
 	<description>Spring boot project with React frontend</description>
 
+	<properties>
+		<project.scm.id>github</project.scm.id>
+	</properties>
+
 	<modules>
 		<module>Frontend</module>
 		<module>Backend</module>
 	</modules>
+
+	<scm>
+		<developerConnection>scm:git:https://github.com/embuc/springbootreact.git</developerConnection>
+	</scm>
 
 	<distributionManagement>
 		<repository>
