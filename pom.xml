@@ -21,4 +21,12 @@
 		<module>Frontend</module>
 		<module>Backend</module>
 	</modules>
+
+	<distributionManagement>
+		<repository>
+			<id>github</id>
+			<name>GitHub</name>
+			<url>https://maven.pkg.github.com/embuc/springbootreact</url>
+		</repository>
+	</distributionManagement>
 </project>
